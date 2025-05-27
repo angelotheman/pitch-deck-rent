@@ -86,5 +86,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 RenTopia - [Website](https://jocular-yeot-cbe5cd.netlify.app)
-
-Project Link: [https://github.com/yourusername/rentopia](https://github.com/yourusername/rentopia)
